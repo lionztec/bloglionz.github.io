@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Una entrada de prueba
+title: "Una entrada de prueba"
 author: lionz
 image: /images/first-post.png
-categories: lionztec
+categories: [lionztec]
 published: true
+tags: featured
 ---
 
 Hola, has llegado a mi blog personal en GitHub. Haz clic en «Acerca» si quieres saber más sobre mí.
