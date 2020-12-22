@@ -5,7 +5,7 @@ author: lionz
 image: /images/first-post.png
 categories: [lionztec]
 published: true
-tags: featured
+tags: destacado
 ---
 
 Hola, has llegado a mi blog personal en GitHub. Haz clic en «Acerca» si quieres saber más sobre mí.
