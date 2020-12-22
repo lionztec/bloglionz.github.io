@@ -1,9 +1,9 @@
 # Site
 name: 'LiOnzTec'
 description: 'Tecnología en formato personal.'
-logo: 'assets/images/logo.png'
+logo: 'assets/images/LD70.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
+baseurl: '/mundana-theme-jekyll'
 disqus: 'blog'
 email: 'lionz@gmail.com'
 mailchimp-list: 'https://lionztec.github.io'
@@ -20,7 +20,7 @@ plugins:
   
 authors:
     lionz:
-      name:           lionz
+      name:           De Lan
       site:           https://lionztec.github.io
       avatar:         /assets/images/avatar1.jpg
       bio:            "Soñador, adicto a la tecnología y los videojuegos, humilde bloguero y aficionado amante de la fotografía."
