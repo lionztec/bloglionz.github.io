@@ -5,7 +5,7 @@ author: lionz
 image: images/nas214.jpg
 categories: [tecnologia]
 published: true
-tags: [principal]
+tags: [principal,destacado]
 ---
 
 En esta ocasión voy a escribir sobre unos dispositivos de los que posiblemente el lector haya oído hablar, pero que seguramente no le haya llamado suficientemente la atención como para plantear su posible utilidad en nuestro entorno.
