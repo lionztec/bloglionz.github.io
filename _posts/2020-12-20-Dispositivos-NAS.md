@@ -2,7 +2,7 @@
 layout: post
 title: "Dispositivos NAS"
 author: lionz
-image: assets/images/6.jpg
+image: images/nas214.jpg
 categories: [tecnologia]
 published: true
 tags: featured
