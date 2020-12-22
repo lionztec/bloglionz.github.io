@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Dispositivos NAS
+title: "Dispositivos NAS"
 author: lionz
-image: /images/nas214.jpg
-categories: tecnologia
+image: assets/images/6.jpg
+categories: [tecnologia]
 published: true
+tags: featured
 ---
 
 En esta ocasión voy a escribir sobre unos dispositivos de los que posiblemente el lector haya oído hablar, pero que seguramente no le haya llamado suficientemente la atención como para plantear su posible utilidad en nuestro entorno.
