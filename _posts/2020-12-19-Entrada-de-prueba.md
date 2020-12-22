@@ -2,7 +2,7 @@
 layout: post
 title: "Una entrada de prueba"
 author: lionz
-image: /images/first-post.png
+image: images/first-post.png
 categories: [lionztec]
 published: true
 tags: destacado
